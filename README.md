@@ -22,5 +22,8 @@ How It Works:
 
 Technology used:
 MVC Architecture with ORM architecture.
+
+MVC:
+![]()
  
                                     for full description of project go through Attached docx file .
