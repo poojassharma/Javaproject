@@ -27,5 +27,8 @@ MVC:
 
 ![](Untitled.png)
 
- 
-                                    for full description of project go through Attached docx file .
+The Model-View-Controller (MVC) framework is an architectural pattern that separates an application into three main logical components Model, View, and Controller. Hence the abbreviation MVC. Each architecture component is built to handle specific development aspect of an application. MVC separates the business logic and presentation layer from each other. It was traditionally used for desktop graphical user interfaces (GUIs). Nowadays, MVC architecture has become popular for designing web applications as well as mobile apps.
+
+ORM:
+
+![](BabyCare/orm.jfif)
