@@ -24,7 +24,7 @@ Technology used:
 MVC Architecture with ORM architecture.
 
 MVC:
-![](Untitled.jpg)
+![](Untitled.png)
 
  
                                     for full description of project go through Attached docx file .
