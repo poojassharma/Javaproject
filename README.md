@@ -15,10 +15,10 @@ Tools to be used
 3.	Server: Apache Tomcat.
 
 How It Works:
-1.	Create account with signing up.
-2.	Login with valid user id and password.
+1.	Create account with signing up, so by this your details were filled in database.
+2.	Login with valid user id and password, so by this your valid username and password retrieve from database for verification.
 3.	Now home page will appear with tips of baby health, baby food, baby tips, baby products, baby names, parenting etc. Here, user can view baby names, baby tips, baby food and baby product.
-
+4.sinse i have used session management so without following the first two steps, you cannot reach the home page.
 
 Technology used:
 MVC Architecture with ORM architecture.
