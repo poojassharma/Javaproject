@@ -21,7 +21,7 @@ How It Works:
 
 3.	Now home page will appear with tips of baby health, baby food, baby tips, baby products, baby names, parenting etc. Here, user can view baby names, baby tips, baby food and baby product.
 
-4.sinse i have used session management so without following the first two steps, you cannot reach the home page.
+4.since i have used session management so without following the first two steps, you cannot reach the home page.
 
 SIGNUP PAGE:
 
