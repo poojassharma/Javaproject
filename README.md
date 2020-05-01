@@ -25,22 +25,22 @@ How It Works:
 
 SIGNUP PAGE:
 
-![](untitled6.png)
+![](Untitled6.png)
 
 LOGIN PAGE:
 
-![](untitled1.png)
+![](Untitled1.png)
 
 HOME PAGE:
 
-![](untitled2.png)
+![](Untitled2.png)
 
-![](untitled3.png)
-![](untitled4.png)
+![](Untitled3.png)
+![](Untitled4.png)
 
 CONTACT US PAGE:
 
-![](untitled5.png)
+![](Untitled5.png)
 
 Technology used:
 MVC Architecture with ORM architecture.
